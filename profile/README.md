@@ -47,7 +47,7 @@ Join our growing community and stay updated with the latest developments:
 - **Twitter:** [@turboline](https://twitter.com/turboline)
 - **LinkedIn:** [Turboline](https://www.linkedin.com/company/turboline)
 - **Facebook:** [Turboline](https://www.facebook.com/turboline)
-- **Instagram:** [@turboline](https://www.instagram.com/turboline)
+- **Reddit:** [@turboline-ai](https://www.reddit.com/user/turboline-ai/)
 
 For support or inquiries, please contact us at [support@turboline.ai](mailto:support@turboline.ai).
 
