@@ -45,7 +45,7 @@ We welcome contributions from the community. Please read our [Contributing Guide
 Join our growing community and stay updated with the latest developments:
 
 - **Twitter:** [@turboline](https://twitter.com/turboline)
-- **LinkedIn:** [Turboline](https://www.linkedin.com/company/turboline)
+- **LinkedIn:** [Turboline](https://www.linkedin.com/company/turboline-ai/)
 - **Facebook:** [Turboline](https://www.facebook.com/turboline)
 - **Reddit:** [@turboline-ai](https://www.reddit.com/user/turboline-ai/)
 
