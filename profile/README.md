@@ -1,59 +1,82 @@
 # Turboline
 
-<img src="https://cdn.turboline.ai/cdn/adminlte/dist/img/TLLogo.png" alt="Turboline Logo" width="100" height="100">
+<p align="center">
+  <img src="https://cdn.turboline.ai/cdn/adminlte/dist/img/TLLogo.png" alt="Turboline Logo" width="150" height="150">
+</p>
 
-Welcome to the official GitHub repository of **Turboline**. We specialize in advanced AI solutions designed to drive innovation and efficiency across industries.
+<p align="center">
+  <strong>Welcome to Turboline!</strong><br>
+  <em>Empowering businesses with cutting-edge AI solutions.</em>
+</p>
 
-## Overview
+<p align="center">
+  <a href="https://turboline.ai">Website</a> | 
+  <a href="https://demo-lite.turboline.ai">Live Demo</a> | 
+  <a href="https://turboline.ai/docs">Documentation</a>
+</p>
 
-Turboline is at the forefront of AI technology, providing state-of-the-art solutions that empower businesses to achieve their goals through intelligent automation and data-driven insights.
+---
 
-- **Website:** [turboline.ai](https://turboline.ai)
-- **Demo:** [demo-lite.turboline.ai](https://demo-lite.turboline.ai)
+## 🚀 Overview
 
-## Table of Contents
+Turboline is a leader in AI technology, offering advanced solutions that drive innovation and efficiency across various industries. Our end-to-end data engineering workflows, AI-driven data modeling, and data transformation tools help businesses harness the power of their data.
 
-- [Overview](#overview)
-- [Features](#features)
-- [Quick Start](#quick-start)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Community and Support](#community-and-support)
-- [License](#license)
+---
 
-## Features
+## 📦 Our Products
 
-- **Scalable AI Solutions**: Designed to grow with your business.
-- **Data-Driven Insights**: Transform your data into actionable intelligence.
-- **Custom Integrations**: Seamlessly integrate with your existing systems.
-- **User-Friendly Interfaces**: Intuitive and easy to use.
+### Turboline Studio
+A powerful data integration studio that reduces data modeling and ingestion timelines from months to a few days. Connect files and data sources seamlessly, ingest them into your preferred database or storage within your own cloud or on-premises infrastructure.
 
-## Quick Start
+### Turboline Lite
+Enable your application users to use natural language queries to interact with their databases, abstracting the underlying query syntax for a user-friendly experience.
 
-To start using our solutions, please refer to the [Documentation Portal](https://turboline.ai/docs) for detailed guides and tutorials.
+### AI Packages
+Our AI packages are designed to simplify integration and enhance functionality for developers. Explore our ready-to-use .NET packages on NuGet:
+- **OpenAI API Integration**: Easily implement natural language processing capabilities into any .NET application.
+- 
 
-## Documentation
+---
 
-Comprehensive documentation is available to help you get the most out of our solutions. Visit our [Documentation Portal](https://turboline.ai/docs) for detailed guides, API references, and tutorials.
+## 🌟 Features
 
-## Contributing
+- **Scalable AI Solutions**: Grow with your business needs.
+- **Data-Driven Insights**: Transform data into actionable intelligence.
+- **Custom Integrations**: Seamlessly integrate with existing systems.
+- **User-Friendly Interfaces**: Intuitive and easy-to-use designs.
 
-We welcome contributions from the community. Please read our [Contributing Guide](CONTRIBUTING.md) to learn how you can participate.
+---
 
-## Community and Support
+## 🛠️ Quick Start
 
-Join our growing community and stay updated with the latest developments:
+To get started with our solutions, visit our [Documentation Portal](https://turboline.ai/docs) for detailed guides and tutorials.
 
+---
+
+## 📖 Documentation
+
+Our comprehensive [Documentation Portal](https://turboline.ai/docs) provides detailed guides, API references, and tutorials to help you make the most of our solutions.
+
+---
+
+## 🌐 Community and Support
+
+Stay connected and updated with the latest developments:
 - **LinkedIn:** [Turboline](https://www.linkedin.com/company/turboline-ai/)
 - **Facebook:** [Turboline](https://www.facebook.com/turboline)
 - **Reddit:** [@turboline-ai](https://www.reddit.com/user/turboline-ai/)
+- **Discord:** [Turboline](https://discord.gg/sh8JMhgH)
 
-For support or inquiries, please contact us at [support@turboline.ai](mailto:support@turboline.ai).
+For support or inquiries, contact us at [dev@turboline.ai](mailto:dev@turboline.ai).
 
-## License
+---
+
+## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Thank you for visiting the Turboline GitHub repository. We are excited to collaborate and build the future of AI together.
+<p align="center">
+  Thank you for visiting the Turboline GitHub repository. We look forward to collaborating and building the future of AI together.
+</p>
