@@ -99,4 +99,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
   Thank you for visiting the Turboline GitHub repository. We look forward to collaborating and building the future of AI together.
 </p>
 ---
-[https://cdn.turboline.ai/cdn/adminlte/dist/img/TLLogo.png](https://turbocdn.blob.core.windows.net/cdn/images/Turboline-banner.png)
+
+![Banner](https://turbocdn.blob.core.windows.net/cdn/images/Turboline-banner.png)
