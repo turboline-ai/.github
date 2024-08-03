@@ -22,8 +22,6 @@
 Turboline is a leader in AI technology, offering advanced solutions that drive innovation and efficiency across various industries. Our end-to-end data engineering workflows, AI-driven data modeling, and data transformation tools help businesses harness the power of their data.
 
 ---
-
-## 📦 Our Products
 ## 📦 Our Products
 
 | Product           | Description                                                                                             | Features                                                                                                                                                      |
@@ -31,6 +29,30 @@ Turboline is a leader in AI technology, offering advanced solutions that drive i
 | **Turboline Studio** | A powerful data integration studio that reduces data modeling and ingestion timelines from months to a few days. | - Connect files and data sources seamlessly <br> - Ingest into your preferred database or storage <br> - Supports cloud and on-premises infrastructure        |
 | **Turboline Lite**   | Enable your application users to use natural language queries to interact with their databases.        | - Natural language query interface <br> - Abstracts underlying query syntax <br> - User-friendly experience                                                    |
 | **AI Packages**      | Ready-to-use .NET packages for enhancing functionality and simplifying integration for developers.     | - LLM API Integration <br> - Easily implement natural language processing <br> - Compatible with .NET applications                                          |
+
+---
+
+## 📦 Available Packages
+
+### .NET Packages on NuGet
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="100" height="100">
+</p>
+
+| Package Name                             | Description                                   | Download Link                                                                                        |
+|------------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Turboline.AI.API.Client**              | API Client for interacting with Turboline AI. | [NuGet](https://www.nuget.org/packages/Turboline.AI.API.Client)                                      |
+| **Turboline.NLQ2SQL.MSSQL**              | Natural Language to SQL for MSSQL.            | [NuGet](https://www.nuget.org/packages/Turboline.NLQ2SQL.MSSQL)                                      |
+| **Turboline.NLQ2SQL.PostgresSQL**        | Natural Language to SQL for PostgreSQL.       | [NuGet](https://www.nuget.org/packages/Turboline.NLQ2SQL.PostgresSQL)                                |
+| **Turboline.NLQ2SQL.MySQL**              | Natural Language to SQL for MySQL.            | [NuGet](https://www.nuget.org/packages/Turboline.NLQ2SQL.MySQL)                                      |
+| **Turboline.NLQ2SQL.MSSQL.WebForms**     | NLQ to SQL for MSSQL in WebForms.             | [NuGet](https://www.nuget.org/packages/Turboline.NLQ2SQL.MSSQL.WebForms)                             |
+
+---
+
+### Future Packages
+
+We are continuously expanding our library of packages. Stay tuned for new releases in other programming languages and frameworks.
 
 ---
 
