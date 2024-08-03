@@ -24,17 +24,13 @@ Turboline is a leader in AI technology, offering advanced solutions that drive i
 ---
 
 ## 📦 Our Products
+## 📦 Our Products
 
-### Turboline Studio
-A powerful data integration studio that reduces data modeling and ingestion timelines from months to a few days. Connect files and data sources seamlessly, ingest them into your preferred database or storage within your own cloud or on-premises infrastructure.
-
-### Turboline Lite
-Enable your application users to use natural language queries to interact with their databases, abstracting the underlying query syntax for a user-friendly experience.
-
-### AI Packages
-Our AI packages are designed to simplify integration and enhance functionality for developers. Explore our ready-to-use .NET packages on NuGet:
-- **OpenAI API Integration**: Easily implement natural language processing capabilities into any .NET application.
-- 
+| Product           | Description                                                                                             | Features                                                                                                                                                      |
+|-------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Turboline Studio** | A powerful data integration studio that reduces data modeling and ingestion timelines from months to a few days. | - Connect files and data sources seamlessly <br> - Ingest into your preferred database or storage <br> - Supports cloud and on-premises infrastructure        |
+| **Turboline Lite**   | Enable your application users to use natural language queries to interact with their databases.        | - Natural language query interface <br> - Abstracts underlying query syntax <br> - User-friendly experience                                                    |
+| **AI Packages**      | Ready-to-use .NET packages for enhancing functionality and simplifying integration for developers.     | - LLM API Integration <br> - Easily implement natural language processing <br> - Compatible with .NET applications                                          |
 
 ---
 
