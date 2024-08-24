@@ -40,13 +40,13 @@ Turboline is a leader in AI technology, offering advanced solutions that drive i
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="100" height="100">
 </p>
 
-| Package Name                             | Description                                   | Download Link                                                                                        |
-|------------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------|
-| **Turboline.AI.API.Client**              | API Client for interacting with Turboline AI. | [NuGet](https://www.nuget.org/packages/Turboline.AI.API.Client)                                      |
-| **Turboline.NLQ2SQL.MSSQL**              | Natural Language to SQL for MSSQL.            | [NuGet](https://www.nuget.org/packages/Turboline.NLQ2SQL.MSSQL)                                      |
-| **Turboline.NLQ2SQL.PostgresSQL**        | Natural Language to SQL for PostgreSQL.       | [NuGet](https://www.nuget.org/packages/Turboline.NLQ2SQL.PostgresSQL)                                |
-| **Turboline.NLQ2SQL.MySQL**              | Natural Language to SQL for MySQL.            | [NuGet](https://www.nuget.org/packages/Turboline.NLQ2SQL.MySQL)                                      |
-| **Turboline.NLQ2SQL.MSSQL.WebForms**     | NLQ to SQL for MSSQL in WebForms.             | [NuGet](https://www.nuget.org/packages/Turboline.NLQ2SQL.MSSQL.WebForms)                             |
+| Package Name                             | Description                                   | Download Link                                                                                        | Status |
+|------------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------|
+| **Turboline.AI.API.Client**              | API Client for interacting with Turboline AI. | [NuGet](https://www.nuget.org/packages/Turboline.AI.API.Client)                                      | |
+| **Turboline.NLQ2SQL.MSSQL**              | Natural Language to SQL for MSSQL.            | [NuGet](https://www.nuget.org/packages/Turboline.NLQ2SQL.MSSQL)                                      | |
+| **Turboline.NLQ2SQL.PostgresSQL**        | Natural Language to SQL for PostgreSQL.       | [NuGet](https://www.nuget.org/packages/Turboline.NLQ2SQL.PostgresSQL)                                | [![Publish NuGet Package](https://github.com/turboline-ai/Turboline.NLP2SQL.PostGreSQL/actions/workflows/main.yml/badge.svg)](https://github.com/turboline-ai/Turboline.NLP2SQL.PostGreSQL/actions/workflows/main.yml)|
+| **Turboline.NLQ2SQL.MySQL**              | Natural Language to SQL for MySQL.            | [NuGet](https://www.nuget.org/packages/Turboline.NLQ2SQL.MySQL)                                      | |
+| **Turboline.NLQ2SQL.MSSQL.WebForms**     | NLQ to SQL for MSSQL in WebForms.             | [NuGet](https://www.nuget.org/packages/Turboline.NLQ2SQL.MSSQL.WebForms)                             | |
 
 ---
 
