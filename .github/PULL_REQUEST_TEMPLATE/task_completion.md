@@ -1,25 +1,40 @@
 # Task Completion
 
 ## Task Details
-**Task ID:** 
-**Type:** Maintenance/Refactor/Performance
+**Task ID:** [Required]
+**Type:** [Maintenance/Refactor/Performance]
+**Priority:** [High/Medium/Low]
 
 ## Implementation Details
-<!-- Describe the work completed -->
+**Summary:**
+[Provide a brief summary of the changes]
+
+**Technical Approach:**
+[Explain the approach taken to implement the changes]
 
 ## Changes Overview
 - [ ] Code changes
+  - [List key files modified]
 - [ ] Configuration updates
+  - [List configs changed]
 - [ ] Performance improvements
+  - [Include metrics if applicable]
 - [ ] Refactoring
+  - [List areas refactored]
 
 ## Testing Results
-<!-- Describe testing performed -->
-- [ ] Existing tests pass
-- [ ] Performance metrics (if applicable)
+**Test Coverage:**
+- [ ] Unit tests added/updated
+- [ ] Integration tests verified
+- [ ] Performance tested
+- [ ] Manual testing completed
 
-## Dependencies
-<!-- List any dependencies affected -->
+## Risk Assessment
+**Impact Areas:**
+- [List affected components]
 
-## Notes
-<!-- Additional information for reviewers -->
+**Potential Issues:**
+- [List any concerns]
+
+## Reviewer Notes
+[Add specific points for reviewers to focus on]
