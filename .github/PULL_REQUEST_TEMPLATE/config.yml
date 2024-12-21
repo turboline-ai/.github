@@ -7,7 +7,7 @@ template_selection:
   - name: Bug Fix
     filename: bug_fix.md
     description: Submit a bug fix
-    labels: [bug-fix]
+    labels: [bug]
   
   - name: Documentation Update
     filename: documentation_update.md
