@@ -1,23 +1,30 @@
 ## Description
-<!-- Provide a brief description of the changes in this PR -->
+<!-- REQUIRED: Provide a brief description of the changes in this PR -->
 
 ## Type of Change
+<!-- REQUIRED: Select at least one checkbox -->
 - [ ] Bug fix (non-breaking change that fixes an issue)
 - [ ] New feature (non-breaking change that adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] Documentation update
 
 ## Changes Made
-<!-- List the key changes made in this PR -->
-- 
-- 
+<!-- REQUIRED: List the key changes made in this PR -->
+1. 
+2. 
 
 ## Testing
-<!-- Describe the testing you've done -->
+<!-- REQUIRED: Describe the testing you've done -->
+### Test Cases
+1. 
+
+### Checklist
+<!-- REQUIRED: Mark all that apply -->
 - [ ] Unit tests added/updated
 - [ ] Manual testing completed
 
-## Checklist
+## Required Checklist
+<!-- REQUIRED: All boxes must be checked before merge -->
 - [ ] My code follows the project's style guidelines
 - [ ] I have performed a self-review of my code
 - [ ] I have commented my code, particularly in hard-to-understand areas
@@ -26,7 +33,7 @@
 - [ ] All tests pass locally
 
 ## Screenshots (if applicable)
-<!-- Add screenshots to help explain your changes -->
+<!-- Optional: Add screenshots to help explain your changes -->
 
 ## Additional Notes
-<!-- Add any other context about the PR here -->
+<!-- Optional: Add any other context about the PR here -->
