@@ -19,4 +19,4 @@ template_selection:
     description: Submit completed task work
     labels: [task]
 
-default: feature_request.md
+default: task_completion.md
