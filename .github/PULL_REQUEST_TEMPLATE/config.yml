@@ -1,0 +1,22 @@
+template_selection:
+  - name: Feature Request
+    filename: feature_request.md
+    description: Submit a new feature implementation
+    labels: [feature]
+  
+  - name: Bug Fix
+    filename: bug_fix.md
+    description: Submit a bug fix
+    labels: [bug-fix]
+  
+  - name: Documentation Update
+    filename: documentation_update.md
+    description: Update project documentation
+    labels: [documentation]
+    
+  - name: Task Completion
+    filename: task_completion.md
+    description: Submit completed task work
+    labels: [task]
+
+default: feature_request.md

@@ -1,0 +1,29 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Project Documentation
+    url: https://github.com/Turboline/docs
+    about: Check our documentation before creating an issue
+  - name: Security Policy
+    url: https://github.com/Turboline/security/security/policy
+    about: Please report security vulnerabilities here
+
+templates:
+  - name: Bug Report
+    about: Report a bug or error
+    filename: bug_report.md
+    labels: [bug]
+    
+  - name: Feature Request
+    about: Suggest a new feature
+    filename: feature_request.md
+    labels: [enhancement]
+    
+  - name: Task Tracking
+    about: Create a new task
+    filename: task_completion.md
+    labels: [task]
+    
+  - name: Custom Issue
+    about: For other types of issues
+    filename: custom_template.md
+    labels: [custom]
