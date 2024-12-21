@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Project Documentation
-    url: https://github.com/Turboline/docs
+  - name: Discussion
+    url: https://github.com/orgs/turboline-ai/discussions
     about: Check our documentation before creating an issue
   - name: Security Policy
     url: https://github.com/Turboline/security/security/policy
-    about: Please report security vulnerabilities here
+    about: Please see our security policy before creating an issue
 
 templates:
   - name: Bug Report
