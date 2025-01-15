@@ -20,11 +20,5 @@ assignees: ''
 ## Current Behavior
 <!-- What actually happens -->
 
-## Environment
-- OS:
-- Browser/Version:
-- Node Version:
-- Package Version:
-
 ## Additional Context
 <!-- Add screenshots, error messages, etc. -->
