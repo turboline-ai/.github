@@ -1,38 +1,73 @@
 # Turboline
 
-<p align="center">
-  <img src="https://cdn.turboline.ai/cdn/adminlte/dist/img/TLLogo.png" alt="Turboline Logo" width="150" height="150">
-</p>
+![Top Banner](https://turbocdn.blob.core.windows.net/blog-images/Turbostream.png)
 
 <p align="center">
   <strong>Welcome to Turboline!</strong><br>
-  <em>Empowering businesses with cutting-edge AI solutions.</em>
+  <em>Realtime data infrastructure for AI Agents</em>
 </p>
 
 <p align="center">
   <a href="https://turboline.ai">Website</a> | 
-  <a href="https://demo-lite.turboline.ai">Live Demo</a> | 
-  <a href="https://turboline.ai/docs">Documentation</a>
+  <a href="https://github.com/turboline-ai/turbostream">Open Source</a> | 
 </p>
 
 ---
 
-## 🚀 Overview
+## 🚀 Our Focus: Turbostream
 
-Turboline is a leader in AI technology, offering advanced solutions that drive innovation and efficiency across various industries. Our end-to-end data engineering workflows, AI-driven data modeling, and data transformation tools help businesses harness the power of their data.
+We are committed to building Turbostream, an open-source platform that enables developers and data engineers to consume, analyze, and visualize chaotic, high-frequency data feeds with the power of Artificial Intelligence.
 
----
-## 📦 Our Products
-
-| Product           | Description                                                                                             | Features                                                                                                                                                      |
-|-------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Turboline Studio** | A powerful data integration studio that reduces data modeling and ingestion timelines from months to a few days. | - Connect files and data sources seamlessly <br> - Ingest into your preferred database or storage <br> - Supports cloud and on-premises infrastructure        |
-| **Turboline Lite**   | Enable your application users to use natural language queries to interact with their databases.        | - Natural language query interface <br> - Abstracts underlying query syntax <br> - User-friendly experience                                                    |
-| **AI Packages**      | Ready-to-use .NET packages for enhancing functionality and simplifying integration for developers.     | - LLM API Integration <br> - Easily implement natural language processing <br> - Compatible with .NET applications                                          |
+Turbostream is designed for high throughput, low latency environments like financial services, network monitoring, and industrial IoT. Our goal is to transform millions of raw data points into concise, natural-language, and actionable intelligence in real time.
 
 ---
+## 🛠️ Components
 
-## 📦 Available Packages
+TurboStream is developed as two separate, highly focused open-source components, licensed under the Mozilla Public License 2.0 (MPL-2.0).
+
+**1. TurboStream Core Backend**
+
+The heart of the system, written in Go, focused exclusively on performance and security.                                  
+Feature Summary
+
+| Feature Summary    | Description |
+| -------- | ------- |
+| High-Speed Ingestion  | Uses Goroutines and Channels for non-blocking consumption of data via WebSockets and HTTP polling. |
+| Secure Configuration | Retrieves sensitive feed configuration from a secure MongoDB vault at startup. |
+| LLM-Agnostic Processing    | Implements the core batching, throttling, and state management required to feed real-time data to any LLM API for contextual analysis.   |
+
+[Backend Repository Link](https://github.com/turboline-ai/turbostream/tree/main/go-backend)
+
+**2. TurboStream Terminal UI (TUI)**
+
+A feature-rich, interactive client built with Go, providing a powerful, desktop-grade dashboard right in your terminal.
+
+
+| Feature Summary    | Description |
+| -------- | ------- |
+| Real-Time Observability  | Displays live metrics on queue depth, throughput, and consumer latency, ensuring performance transparency. |
+| Analysis Section | Renders the LLM's natural-language output and contextual analysis in a dedicated panel. |
+| Configuration Interface   | Allows secure viewing and interaction with current feed configurations and system health status.   |
+
+[TUI Repository Link](https://github.com/turboline-ai/turbostream/tree/main/go-tui)
+
+---
+
+## 🤝 Community and Contribution
+
+TurboStream is a project built with and for the community. We welcome contributions, feedback, and discussion from developers specializing in high-performance Go, real-time data streaming, and applied AI/LLM engineering.
+
+Join our Github discussions for regular updates and announcements. 
+
+---
+
+## 📜 License
+
+All core components of TurboStream are released under the **Mozilla Public License 2.0 (MPL-2.0)**.
+
+---
+
+## 📦 Other Relevant Projects
 
 ### .NET Packages on NuGet
 
@@ -56,47 +91,8 @@ We are continuously expanding our library of packages. Stay tuned for new releas
 
 ---
 
-## 🌟 Features
-
-- **Scalable AI Solutions**: Grow with your business needs.
-- **Data-Driven Insights**: Transform data into actionable intelligence.
-- **Custom Integrations**: Seamlessly integrate with existing systems.
-- **User-Friendly Interfaces**: Intuitive and easy-to-use designs.
-
----
-
-## 🛠️ Quick Start
-
-To get started with our solutions, visit our [Documentation Portal](https://turboline.ai/docs) for detailed guides and tutorials.
-
----
-
-## 📖 Documentation
-
-Our comprehensive [Documentation Portal](https://turboline.ai/docs) provides detailed guides, API references, and tutorials to help you make the most of our solutions.
-
----
-
-## 🌐 Community and Support
-
-Stay connected and updated with the latest developments:
-- **LinkedIn:** [Turboline](https://www.linkedin.com/company/turboline-ai/)
-- **Facebook:** [Turboline](https://www.facebook.com/turboline)
-- **Reddit:** [@turboline-ai](https://www.reddit.com/user/turboline-ai/)
-- **Discord:** [Turboline](https://discord.gg/sh8JMhgH)
-
-For support or inquiries, contact us at [dev@turboline.ai](mailto:dev@turboline.ai).
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 <p align="center">
   Thank you for visiting the Turboline GitHub repository. We look forward to collaborating and building the future of AI together.
 </p>
 
-![Banner](https://turbocdn.blob.core.windows.net/cdn/images/Turboline-banner.png)
+![Bottom Banner](https://turbocdn.blob.core.windows.net/cdn/images/Turboline-banner.png)
