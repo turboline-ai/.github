@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://turboline.ai">Website</a> | 
-  <a href="https://github.com/turboline-ai/turbostream">Open Source</a> | 
+  <a href="https://github.com/turboline-ai/turbostream">Open Source</a>
 </p>
 
 ---
