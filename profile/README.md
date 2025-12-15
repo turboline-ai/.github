@@ -61,7 +61,7 @@ Join our Github discussions for regular updates and announcements.
 
 ## 📜 License
 
-All core components of TurboStream are released under the **Mozilla Public License 2.0 (MPL-2.0)**.
+All core components of TurboStream are released under the **[Mozilla Public License 2.0 (MPL-2.0)](https://github.com/turboline-ai/turbostream?tab=MPL-2.0-1-ov-file)**.
 
 ---
 
