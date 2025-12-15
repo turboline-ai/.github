@@ -1,5 +1,3 @@
-# Turboline
-
 ![Top Banner](https://turbocdn.blob.core.windows.net/blog-images/Turbostream.png)
 
 <p align="center">
