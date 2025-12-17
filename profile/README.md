@@ -1,4 +1,4 @@
-![Top Banner](https://turbocdn.blob.core.windows.net/blog-images/t-stream.png)
+![Top Banner](https://turbocdn.blob.core.windows.net/blog-images/naga.png)
 
 <p align="center">
   <strong>Welcome to Turboline!</strong><br>
