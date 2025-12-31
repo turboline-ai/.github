@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Welcome to Turboline!</strong><br>
-  <em>Realtime data infrastructure for AI Agents</em>
+  <em>Realtime data infrastructure for AI bound streams</em>
 </p>
 
 <p align="center">
@@ -16,14 +16,14 @@
 
 We are committed to building Turbostream, an open-source platform that enables developers consume and analyze chaotic, high-frequency data feeds with the power of Artificial Intelligence.
 
-Turbostream is designed for high throughput, low latency environments like financial services, network monitoring, and industrial IoT. Our goal is to transform millions of raw data points into concise, natural-language, and actionable intelligence in real time.
+Turbostream is designed for high throughput, low latency environments like financial services, network monitoring, and industrial IoT. Our goal is to transform millions of raw data points into concise format that can be ingestable by natural-language and models for actionable intelligence in real time.
 
 ---
 ## Components
 
-TurboStream is developed as two separate, highly focused open-source components, licensed under the Mozilla Public License 2.0 (MPL-2.0).
+Turbostream is developed as two separate, highly focused open-source components, licensed under the Mozilla Public License 2.0 (MPL-2.0).
 
-**1. TurboStream Core Backend**
+**1. Turbostream Core Backend**
 
 The heart of the system, written in Go, focused exclusively on performance and security.                                  
 Feature Summary
@@ -37,7 +37,7 @@ Feature Summary
 
 [Backend Repository Link](https://github.com/turboline-ai/turbostream/tree/main/go-backend)
 
-**2. TurboStream Terminal UI (TUI)**
+**2. Turbostream Terminal UI (TUI)**
 
 A feature-rich, interactive client built with Go, providing a powerful, desktop-grade dashboard right in your terminal.
 
@@ -54,7 +54,7 @@ A feature-rich, interactive client built with Go, providing a powerful, desktop-
 
 ## Community and Contribution
 
-TurboStream is a project built with and for the community. We welcome contributions, feedback, and discussion from developers specializing in high-performance Go, real-time data streaming, and applied AI/LLM engineering.
+Turbostream is a project built with and for the community. We welcome contributions, feedback, and discussion from developers specializing in high-performance Go, real-time data streaming, and applied AI/LLM engineering.
 
 Join our Github discussions for regular updates and announcements. 
 
@@ -62,7 +62,7 @@ Join our Github discussions for regular updates and announcements.
 
 ## License
 
-All core components of TurboStream are released under the **Mozilla Public License 2.0 (MPL-2.0)**.
+All core components of Turbostream are released under the **Mozilla Public License 2.0 (MPL-2.0)**.
 
 ---
 
