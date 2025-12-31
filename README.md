@@ -26,7 +26,6 @@ Turbostream is developed as two separate, highly focused open-source components,
 **1. Turbostream Core Backend**
 
 The heart of the system, written in Go, focused exclusively on performance and security.                                  
-Feature Summary
 
 | Feature Summary    | Description |
 | -------- | ------- |
