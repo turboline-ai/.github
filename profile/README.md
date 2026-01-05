@@ -18,6 +18,10 @@ We are committed to building Turbostream, an open-source platform that enables d
 
 Turbostream is designed for high throughput, low latency environments like financial services, network monitoring, and industrial IoT. Our goal is to transform millions of raw data points into concise format that can be ingestable by LLM and AI models for actionable intelligence in real time.
 
+[![Watch the video](https://img.youtube.com/vi/wi7u57JCQ_E/maxresdefault.jpg)](https://youtu.be/wi7u57JCQ_E)
+
+### [Watch this video on YouTube](https://youtu.be/wi7u57JCQ_E)
+
 ---
 ## Components
 
