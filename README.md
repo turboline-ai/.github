@@ -18,6 +18,10 @@ We are committed to building Turbostream, an open-source platform that enables d
 
 Turbostream is designed for high throughput, low latency environments like financial services, network monitoring, and industrial IoT. Our goal is to transform millions of raw data points into concise format that can be ingestable by LLM and AI models for actionable intelligence in real time.
 
+[![Watch the video](https://img.youtube.com/vi/wi7u57JCQ_E/maxresdefault.jpg)](https://youtu.be/wi7u57JCQ_E)
+
+### [Watch this video on YouTube](https://youtu.be/wi7u57JCQ_E)
+
 ---
 ## Components
 
@@ -77,6 +81,9 @@ TSLN (Time-Series Lean Notation) is a specialized data serialization format desi
 |------------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------|
 | **TSLN Go Lang**              | Go Implementation for TSLN. | [Repo](https://github.com/turboline-ai/tsln-golang)                                      |
 | **TSLN Node.JS**              | Node.js Implementation for TSLN.            | [Repo](https://github.com/turboline-ai/tsln-node)                                      |
+| **TSLN Python**              | Python Implementation for TSLN.            | [Repo](https://github.com/turboline-ai/tsln-python)                                      |
+
+For WebSocket implementation and usage, visit our [WebSocket Documentation](https://turboline.ai/docs/websockets).
 
 ---
 
