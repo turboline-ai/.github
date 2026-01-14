@@ -81,6 +81,9 @@ TSLN (Time-Series Lean Notation) is a specialized data serialization format desi
 |------------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------|
 | **TSLN Go Lang**              | Go Implementation for TSLN. | [Repo](https://github.com/turboline-ai/tsln-golang)                                      |
 | **TSLN Node.JS**              | Node.js Implementation for TSLN.            | [Repo](https://github.com/turboline-ai/tsln-node)                                      |
+| **TSLN Python**              | Python Implementation for TSLN.            | [Repo](https://github.com/turboline-ai/tsln-python)                                      |
+
+For WebSocket implementation and usage, visit our [WebSocket Documentation](https://turboline.ai/docs/websockets).
 
 ---
 
