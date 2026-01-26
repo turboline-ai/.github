@@ -75,7 +75,9 @@ All core components of Turbostream are released under the **Mozilla Public Licen
 
 TSLN (Time-Series Lean Notation) is a specialized data serialization format designed to maximize token efficiency when transmitting time-series data to Large Language Models (LLMs) for analysis. Through innovative encoding strategies including relative timestamps, differential encoding, and repeat markers, TSLN achieves approximately 74% token reduction compared to JSON and 40% reduction compared to existing optimized formats like TOON (Token-Optimized Object Notation).
 
-[Read our white paper](https://github.com/turboline-ai/tsln)
+**[Read our white paper](https://github.com/turboline-ai/tsln/blob/main/TSLN_Whitepaper.pdf)**
+
+
 
 | Package Name                             | Description                                   | Download Link                                                                                        |
 |------------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------|
