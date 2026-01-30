@@ -38,7 +38,7 @@ The heart of the system, written in Go, focused exclusively on performance and s
 | LLM-Agnostic Processing    | Implements the core batching, throttling, and state management required to feed real-time data to any LLM API for contextual analysis.   |
 | TSLN Implementation    | Implements [Time Series Lean Notation (TSLN)](https://github.com/turboline-ai/tsln) for efficient token consumption. |
 
-[Backend Repository Link](https://github.com/turboline-ai/turbostream/tree/main/go-backend)
+[Core Backend Repo](https://github.com/turboline-ai/turbostream)
 
 **2. Turbostream Terminal UI (TUI)**
 
@@ -51,7 +51,7 @@ A feature-rich, interactive client built with Go, providing a powerful, desktop-
 | Analysis Section | Renders the LLM's natural-language output and contextual analysis in a dedicated panel. |
 | Configuration Interface   | Allows secure viewing and interaction with current feed configurations and system health status.   |
 
-[TUI Repository Link](https://github.com/turboline-ai/turbostream/tree/main/go-tui)
+[TUI Repo](https://github.com/turboline-ai/turbostream-tui)
 
 ---
 
